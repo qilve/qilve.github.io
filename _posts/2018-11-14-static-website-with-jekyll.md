@@ -13,9 +13,6 @@ Test 😓  。
 Test 😓  。  <!-- more -->
 
 
-
-
-
 # Hexo
 
 主流的静态页面生成器有俩，一个Jekyll，一个Hexo，都支持Markdown。 前者用的是Ruby，后者为Node.js。
