@@ -27,7 +27,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-paginate
-paginate: 1
+paginate: 5
 paginate_path: "/pages:num/"
 
 mathjax: false
