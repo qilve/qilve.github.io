@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Javas实体映射之mapstrcut"
-date:   2018-11-14 12:00:00
+date:   2018-11-29 12:00:00
 categories: java
 tags: [java, mapstruct]
 ---
