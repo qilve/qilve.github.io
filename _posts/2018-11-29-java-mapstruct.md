@@ -2,8 +2,8 @@
 layout: post
 title:  "Javas实体映射之mapstrcut"
 date:   2018-11-14 12:00:00
-categories: spring-boot
-tags: [java, jpa, spring boot]
+categories: java
+tags: [java, mapstruct]
 ---
 
 ### mapstrcut简介
